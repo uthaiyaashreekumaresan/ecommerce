@@ -1,0 +1,6 @@
+2026-10-31 21:20:16.652 IST [11180] LOG:  starting PostgreSQL 18.4 on x86_64-windows, compiled by msvc-19.44.35226, 64-bit
+2026-10-31 21:20:16.661 IST [11180] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-10-31 21:20:16.662 IST [11180] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-10-31 21:20:16.662 IST [11180] WARNING:  could not create listen socket for "localhost"
+2026-10-31 21:20:16.662 IST [11180] FATAL:  could not create any TCP/IP sockets
+2026-10-31 21:20:16.667 IST [11180] LOG:  database system is shut down

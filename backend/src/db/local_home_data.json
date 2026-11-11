@@ -1,0 +1,282 @@
+{
+  "memorySliders": [
+    {
+      "id": 1,
+      "tag": "HAUTE PARFUMERIE • EXCLUSIVE COLLECTION",
+      "offer_badge": "15% OFF",
+      "title": "Discover Your Signature Scent",
+      "subtitle": "Immerse yourself in artisanal French master perfumery. Handcrafted with precious floral and rare woody essences to create a captivating, long-lasting luxury aura.",
+      "primary_btn_text": "Shop Now",
+      "primary_btn_link": "/products",
+      "secondary_btn_text": "Explore Collections",
+      "secondary_btn_link": "/products?sort=rating",
+      "image_url": "/uploads/perfume-1793512240544-960322898.jpg",
+      "bg_gradient": "linear-gradient(135deg, #F5F3F8 0%, #E9E5F2 50%, #DDD8E8 100%)",
+      "accent_color": "#292536",
+      "display_order": 1,
+      "is_active": true,
+      "created_at": "2026-11-01T04:42:24.960Z",
+      "updated_at": "2026-11-03T06:19:27.481Z"
+    },
+    {
+      "id": 2,
+      "tag": "WOMEN'S COUTURE COLLECTION",
+      "offer_badge": "25% OFF",
+      "title": "Elegance in Every Drop.",
+      "subtitle": "Delicate bouquets of French Grasse rose, nocturnal jasmine, and velvet white musk crafted for timeless poise and grace.",
+      "primary_btn_text": "Explore Women's Collection",
+      "primary_btn_link": "/products?gender=Women",
+      "secondary_btn_text": "Floral Blends",
+      "secondary_btn_link": "/products?gender=Women&sort=rating",
+      "image_url": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1200&q=85",
+      "bg_gradient": "linear-gradient(135deg, #FAF3F6 0%, #F6E6ED 50%, #EED5E0 100%)",
+      "accent_color": "#9C3A63",
+      "display_order": 2,
+      "is_active": true,
+      "created_at": "2026-11-01T04:42:24.960Z"
+    },
+    {
+      "id": 3,
+      "tag": "GENDERLESS NICHE EDITIONS",
+      "offer_badge": "BUY 1 GET 1 OFFER",
+      "title": "Fragrance Without Limits.",
+      "subtitle": "Boundary-defying unisex creations uniting crisp ocean breezes, sparkling bergamot zest, and rich Madagascar vanilla.",
+      "primary_btn_text": "Explore Unisex Collection",
+      "primary_btn_link": "/products?gender=Unisex",
+      "secondary_btn_text": "View All Fragrances",
+      "secondary_btn_link": "/products?gender=Unisex&sort=newest",
+      "image_url": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1200&q=85",
+      "bg_gradient": "linear-gradient(135deg, #F1F6F4 0%, #E2ECE8 50%, #D1DFDB 100%)",
+      "accent_color": "#2E6656",
+      "display_order": 3,
+      "is_active": true,
+      "created_at": "2026-11-01T04:42:24.960Z"
+    },
+    {
+      "id": 4,
+      "tag": "HAUTE LUXURY RESERVE",
+      "offer_badge": "UP TO 40% OFF",
+      "title": "Experience Luxury Fragrances.",
+      "subtitle": "Precious aged Cambodian agarwood, crystal ambergris, and rare royal saffron formulations with 14+ hour sillage.",
+      "primary_btn_text": "Shop Luxury Collection",
+      "primary_btn_link": "/products?category=woody-earthy",
+      "secondary_btn_text": "Explore Oud Blends",
+      "secondary_btn_link": "/products?sort=rating",
+      "image_url": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1200&q=85",
+      "bg_gradient": "linear-gradient(135deg, #F9F5EC 0%, #F2E9D4 50%, #E7D8B6 100%)",
+      "accent_color": "#9A7322",
+      "display_order": 4,
+      "is_active": true,
+      "created_at": "2026-11-01T04:42:24.960Z"
+    }
+  ],
+  "memorySections": [
+    {
+      "id": 1,
+      "section_key": "hero_slider",
+      "name": "Hero Slider",
+      "title": "Hero Image Slider",
+      "subtitle": "Dynamic full-width 4-slide carousel",
+      "is_enabled": true,
+      "display_order": 1
+    },
+    {
+      "id": 2,
+      "section_key": "value_props",
+      "name": "Value Propositions",
+      "title": "Our Craftsmanship Commitments",
+      "subtitle": "Why perfume lovers choose ÉLIXIR",
+      "is_enabled": true,
+      "display_order": 2
+    },
+    {
+      "id": 3,
+      "section_key": "categories",
+      "name": "Fragrance Families / Categories",
+      "title": "Explore Fragrance Families",
+      "subtitle": "Curated By Scent Family",
+      "is_enabled": true,
+      "display_order": 3
+    },
+    {
+      "id": 4,
+      "section_key": "featured_products",
+      "name": "Featured Products",
+      "title": "Trending Artisanal Blends",
+      "subtitle": "Hand-picked luxury selections",
+      "is_enabled": true,
+      "display_order": 4
+    },
+    {
+      "id": 5,
+      "section_key": "special_offer",
+      "name": "Special Promotional Banner",
+      "title": "Exclusive Privilege Offer",
+      "subtitle": "Complimentary Discovery Atomizer Set",
+      "is_enabled": true,
+      "display_order": 5
+    },
+    {
+      "id": 6,
+      "section_key": "best_sellers",
+      "name": "Best Sellers",
+      "title": "Signature Bestsellers",
+      "subtitle": "Most coveted 12+ hour sillage formulations",
+      "is_enabled": true,
+      "display_order": 6
+    },
+    {
+      "id": 7,
+      "section_key": "new_arrivals",
+      "name": "New Arrivals",
+      "title": "New In The House",
+      "subtitle": "Fresh extraits from master French perfumers",
+      "is_enabled": true,
+      "display_order": 7
+    },
+    {
+      "id": 8,
+      "section_key": "fragrance_pyramid",
+      "name": "Fragrance Pyramid Guide",
+      "title": "How An Artisanal Perfume Evolves",
+      "subtitle": "The 3-stage olfactory architecture",
+      "is_enabled": true,
+      "display_order": 8
+    },
+    {
+      "id": 9,
+      "section_key": "testimonials",
+      "name": "Customer Reviews",
+      "title": "The Connoisseur Verdict",
+      "subtitle": "Loved By 25,000+ Fragrance Aficionados",
+      "is_enabled": true,
+      "display_order": 9
+    },
+    {
+      "id": 10,
+      "section_key": "newsletter",
+      "name": "Newsletter VIP Signup",
+      "title": "Join The ÉLIXIR Circle",
+      "subtitle": "Receive private allocation notices & 10% off",
+      "is_enabled": true,
+      "display_order": 10
+    }
+  ],
+  "memoryOffers": [
+    {
+      "id": 1,
+      "badge": "LIMITED TIME PRIVILEGE",
+      "title": "Complimentary Discovery Atomizer Set",
+      "description": "Receive a deluxe 3x5ml discovery flight featuring our most coveted artisanal extraits with every order above ₹2,499. Unlock your exclusive 10% off coupon code below.",
+      "discount_pct": "10% OFF + GIFT",
+      "code": "NOIR10",
+      "banner_image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1200&q=80",
+      "link": "/products",
+      "btn_text": "Claim Privilege Offer",
+      "start_date": "2026-10-01",
+      "end_date": "2026-12-31",
+      "is_active": true,
+      "created_at": "2026-11-01T04:42:24.960Z"
+    }
+  ],
+  "memoryCollections": {
+    "featuredIds": [
+      1,
+      2,
+      21,
+      22,
+      41,
+      42,
+      61,
+      62,
+      81,
+      82,
+      101,
+      102,
+      121,
+      122,
+      141,
+      142,
+      161,
+      162,
+      181,
+      182
+    ],
+    "bestsellerIds": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "newArrivalIds": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ]
+  },
+  "memoryWishlists": [
+    {
+      "id": 1001,
+      "user_id": 1,
+      "product_id": 42,
+      "created_at": "2026-11-04T12:56:22.589Z"
+    },
+    {
+      "id": 1001,
+      "user_id": 2,
+      "product_id": 153,
+      "created_at": "2026-11-11T01:49:29.237Z"
+    },
+    {
+      "id": 1001,
+      "user_id": 4,
+      "product_id": 153,
+      "created_at": "2026-11-11T10:39:02.240Z"
+    },
+    {
+      "id": 1001,
+      "user_id": 5,
+      "product_id": 153,
+      "created_at": "2026-11-11T12:11:22.911Z"
+    },
+    {
+      "id": 1002,
+      "user_id": 5,
+      "product_id": 22,
+      "created_at": "2026-11-11T12:11:40.768Z"
+    }
+  ]
+}

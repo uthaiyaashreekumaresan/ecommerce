@@ -1,0 +1,14 @@
+2026-11-01 21:23:13.073 IST [10244] LOG:  starting PostgreSQL 18.4 on x86_64-windows, compiled by msvc-19.44.35226, 64-bit
+2026-11-01 21:23:13.080 IST [10244] LOG:  listening on IPv6 address "::1", port 5433
+2026-11-01 21:23:13.080 IST [10244] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-11-01 21:23:13.201 IST [18868] LOG:  database system was interrupted; last known up at 2026-11-01 21:21:57 IST
+2026-11-01 21:23:19.751 IST [18868] LOG:  could not open file "./postgres.log": sharing violation
+2026-11-01 21:23:19.751 IST [18868] DETAIL:  Continuing to retry for 30 seconds.
+2026-11-01 21:23:19.751 IST [18868] HINT:  You might have antivirus, backup, or similar software interfering with the database system.
+2026-11-01 21:24:03.899 IST [16832] LOG:  starting PostgreSQL 18.4 on x86_64-windows, compiled by msvc-19.44.35226, 64-bit
+2026-11-01 21:24:03.905 IST [16832] LOG:  listening on IPv6 address "::1", port 5433
+2026-11-01 21:24:03.905 IST [16832] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-11-01 21:24:04.153 IST [15112] LOG:  database system was interrupted; last known up at 2026-11-01 21:21:57 IST
+2026-11-01 21:24:10.755 IST [15112] LOG:  could not open file "./postgres.log": sharing violation
+2026-11-01 21:24:10.755 IST [15112] DETAIL:  Continuing to retry for 30 seconds.
+2026-11-01 21:24:10.755 IST [15112] HINT:  You might have antivirus, backup, or similar software interfering with the database system.
